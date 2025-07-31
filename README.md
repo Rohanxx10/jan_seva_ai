@@ -51,13 +51,17 @@ To run the app:
 
 ## Screenshots
 
-*(Add screenshots here if available)*
+
+![Screenshot_2025-07-31-12-15-06-72_ba17c719b52ff451fd4894c0ae671ff4](https://github.com/user-attachments/assets/73630218-767b-40f2-8ca0-7fcf7ca91801)
+![Screenshot_2025-07-31-12-14-48-55_ba17c719b52ff451fd4894c0ae671ff4](https://github.com/user-attachments/assets/760c8e89-534a-4416-a627-e8c2438b3819)
+![Screenshot_2025-07-31-12-14-31-03_ba17c719b52ff451fd4894c0ae671ff4](https://github.com/user-attachments/assets/495e3bf0-2fb9-4ef8-b195-89b9f4a008ec)
+![Screenshot_2025-07-31-12-13-39-90_ab1359306de43320f9557c797b1c4be5](https://github.com/user-attachments/assets/78d3a259-21ad-4991-b0b8-2c74fbcc6b8c)
+![Screenshot_2025-07-31-12-13-10-61_ba17c719b52ff451fd4894c0ae671ff4](https://github.com/user-attachments/assets/774d9e9a-e772-4de7-bb60-5127eacc988c)
 
 ---
 
 ## License
 
-MIT License © Your Name
 
 ---
 
